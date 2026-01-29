@@ -1,0 +1,2 @@
+# symo
+Symmetry-aware Optimization
